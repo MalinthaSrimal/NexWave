@@ -1,9 +1,9 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
+# Build a NextWave AI Platform with Next.js, React, Tailwind, Prisma, Stripe 
 
 
 
 
-This is Build a NexWawe AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023.
+This is Build a NexWawe AI Platform with Next.js, React, Tailwind, Prisma, Stripe.
 
 
 
