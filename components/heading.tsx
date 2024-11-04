@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils";
 interface HeadingProps {
   title: string;
   description: string;
-  icon: Icon;
+  icon: React.ComponentType<{ className?: string }>; // Updated type
   iconColor?: string;
   bgColor?: string;
 }
